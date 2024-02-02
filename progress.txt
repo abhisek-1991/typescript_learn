@@ -1,0 +1,9 @@
+## keywords encountered so far
+any
+unknown
+readonly 
+?: -- meaning it is optional
+type
+interface
+enums
+generics
